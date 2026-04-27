@@ -1,0 +1,10 @@
+fusion_node:
+  ros__parameters:
+    image_topic: /image_raw
+    scan_topic: /scan
+    model_file: ""
+    fov_deg: 60.0
+    conf_threshold: 0.5
+    min_valid_distance: 0.02
+    show_debug_window: true
+    log_interval_sec: 1.0
